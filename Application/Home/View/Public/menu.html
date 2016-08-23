@@ -1,0 +1,26 @@
+<ul class="nav nav-list">
+    <li class="active open">
+        <a href="#" class="dropdown-toggle">
+            <i class="icon-list"></i>
+            <span class="menu-text"> 考勤 </span>
+
+            <b class="arrow icon-angle-down"></b>
+        </a>
+
+        <ul class="submenu">
+            <li class="<eq name="active" value="我的考勤机">active</eq>">
+                <a href="{:U('User/machine_list')}">
+                    <i class="icon-double-angle-right"></i>
+                    我的考勤机
+                </a>
+            </li>
+			<li class="<eq name="active" value="我的考勤">active</eq>">
+                <a href="{:U('User/punch_list')}">
+                    <i class="icon-double-angle-right"></i>
+                    我的考勤
+                </a>
+            </li>
+            
+        </ul>
+    </li>
+</ul><!-- /.nav-list -->

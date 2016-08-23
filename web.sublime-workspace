@@ -1,0 +1,1348 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"con",
+				"controller"
+			],
+			[
+				"user",
+				"userDataHtml"
+			],
+			[
+				"___",
+				"__ROOT__	(layout.html)"
+			],
+			[
+				"ot",
+				"otherModel"
+			],
+			[
+				"xml",
+				"xml_encode"
+			],
+			[
+				"chr",
+				"charset=\"utf-8"
+			],
+			[
+				"pa",
+				"params	(ErrorHandlerBehavior.class.php)"
+			],
+			[
+				"res",
+				"restore_error_handler	(TestController.class.php)"
+			],
+			[
+				"C",
+				"Common	(ErrorHandlerBehavior.class.php)"
+			],
+			[
+				"out",
+				"outline"
+			],
+			[
+				"sm",
+				"smarty"
+			],
+			[
+				"include",
+				"include_path	(Smarty.class.php)"
+			],
+			[
+				"preg_ma",
+				"preg_match"
+			],
+			[
+				"preg_match",
+				"preg_match_all"
+			],
+			[
+				"limi",
+				"set_time_limit"
+			],
+			[
+				"curl_s",
+				"curl_setopt_array"
+			],
+			[
+				"dir",
+				"dirname"
+			],
+			[
+				"sub",
+				"subdir"
+			],
+			[
+				"json",
+				"json_encode"
+			],
+			[
+				"ignor",
+				"ignoreUser"
+			],
+			[
+				"T",
+				"TimeRunInterface"
+			],
+			[
+				"run",
+				"runFile"
+			],
+			[
+				"Te",
+				"Test1"
+			],
+			[
+				"add",
+				"addObserver"
+			],
+			[
+				"text",
+				"text-align"
+			],
+			[
+				"ov",
+				"overflow"
+			],
+			[
+				"on",
+				"onclick	Attr"
+			],
+			[
+				"font",
+				"font-size"
+			],
+			[
+				"pas",
+				"password"
+			],
+			[
+				"spl_auto",
+				"spl_autoload_register"
+			],
+			[
+				"test",
+				"test2"
+			],
+			[
+				"pro",
+				"property_exists"
+			],
+			[
+				"Test",
+				"Test2"
+			],
+			[
+				"abs",
+				"abstract"
+			],
+			[
+				"filter",
+				"filter_list"
+			],
+			[
+				"html",
+				"htmlspecialchars"
+			],
+			[
+				"cla",
+				"class_exists"
+			],
+			[
+				"ob",
+				"ob_start"
+			],
+			[
+				"micro",
+				"microtime_float"
+			],
+			[
+				"mt",
+				"mt_arr"
+			],
+			[
+				"say",
+				"sayhello"
+			],
+			[
+				"ba",
+				"background-color"
+			],
+			[
+				"fot",
+				"font-size"
+			],
+			[
+				"mysql_f",
+				"mysql_fetch_row"
+			],
+			[
+				"pirnt",
+				"print_r"
+			],
+			[
+				"fget",
+				"fgetcsv"
+			],
+			[
+				"var",
+				"var_dump"
+			],
+			[
+				"met",
+				"method	Attr"
+			],
+			[
+				"new",
+				"news_list"
+			],
+			[
+				"prit",
+				"print_r"
+			],
+			[
+				"cu",
+				"cursor"
+			],
+			[
+				"mysql_fetch",
+				"mysql_fetch_assoc"
+			],
+			[
+				"mysql",
+				"mysql_connect"
+			],
+			[
+				"Ca",
+				"Category"
+			],
+			[
+				"sess",
+				"session_start"
+			],
+			[
+				"print",
+				"print_r"
+			],
+			[
+				"class",
+				"class_name"
+			],
+			[
+				"bo",
+				"both"
+			],
+			[
+				"blo",
+				"block"
+			],
+			[
+				"text-a",
+				"text-decoration"
+			],
+			[
+				"dis",
+				"display"
+			],
+			[
+				"background",
+				"background-color"
+			],
+			[
+				"broder",
+				"border-bottom"
+			],
+			[
+				"back",
+				"background"
+			],
+			[
+				"font-",
+				"font-family"
+			],
+			[
+				"inline",
+				"inline-block"
+			],
+			[
+				"di",
+				"display"
+			],
+			[
+				"po",
+				"position"
+			],
+			[
+				"link",
+				"linka	link - author"
+			],
+			[
+				"style",
+				"style	Attr"
+			],
+			[
+				"list-style",
+				"list-style-type"
+			],
+			[
+				"ch",
+				"checked	Attr"
+			],
+			[
+				"S",
+				"String"
+			],
+			[
+				"a",
+				"a	<a>"
+			],
+			[
+				"head",
+				"header"
+			],
+			[
+				"me",
+				"method	Attr"
+			],
+			[
+				"backgroun",
+				"background-color"
+			],
+			[
+				"col",
+				"collapse"
+			],
+			[
+				"border",
+				"border-collapse"
+			],
+			[
+				"header",
+				"header"
+			],
+			[
+				"line",
+				"line-height"
+			],
+			[
+				"list",
+				"list-style"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "Application/School/View/Teacher/school.html",
+			"settings":
+			{
+				"buffer_size": 10074,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "Application/School/View/Teacher/addTeacher.html",
+			"settings":
+			{
+				"buffer_size": 1717,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "Application/School/Controller/TeacherController.class.php",
+			"settings":
+			{
+				"buffer_size": 1082,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "Application/School/Model/UserModel.class.php",
+			"settings":
+			{
+				"buffer_size": 547,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "Application/School/View/Teacher/addUser.html",
+			"settings":
+			{
+				"buffer_size": 2236,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "Application/School/View/Teacher/alterTeacher.html",
+			"settings":
+			{
+				"buffer_size": 6,
+				"line_ending": "Windows"
+			}
+		}
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 392.0,
+		"last_filter": "Package Control: ",
+		"selected_items":
+		[
+			[
+				"Package Control: ",
+				"Package Control: Install Package"
+			],
+			[
+				"install",
+				"Package Control: Install Package"
+			],
+			[
+				"Package Control: lis",
+				"Package Control: List Packages"
+			],
+			[
+				"Package Controluser",
+				"Preferences: Package Control Settings – User"
+			],
+			[
+				"list",
+				"Package Control: List Packages"
+			],
+			[
+				"Package Control: install",
+				"Package Control: Install Package"
+			],
+			[
+				"Snippet: ",
+				"Snippet: <label> with <input>"
+			],
+			[
+				"brow",
+				"SFTP: Browse Server…"
+			]
+		],
+		"width": 528.0
+	},
+	"console":
+	{
+		"height": 209.0,
+		"history":
+		[
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/F/www/web",
+		"/F/www/web/Application",
+		"/F/www/web/Application/Common",
+		"/F/www/web/Application/Common/Conf",
+		"/F/www/web/Application/Home",
+		"/F/www/web/Application/Home/Model",
+		"/F/www/web/Application/School",
+		"/F/www/web/Application/School/Model",
+		"/F/www/web/Application/School/View",
+		"/F/www/web/Public",
+		"/F/www/web/ThinkPHP/Library",
+		"/F/www/web/ThinkPHP/Library/Think",
+		"/F/www/web/ThinkPHP/Library/Think/Db/Driver"
+	],
+	"file_history":
+	[
+		"/F/www/web/Application/Common/Conf/config.php",
+		"/C/Users/Administrator/Documents/HomeUsersModel.class.php",
+		"/C/Users/Administrator/AppData/Local/Temp/$DT_64922.tmp",
+		"/F/www/web/Application/School/Conf/config.php",
+		"/F/www/web/Application/School/View/Teacher/school2.html",
+		"/F/www/web/Application/School/View/Teacher/addTeacher.html",
+		"/F/www/server/conf/application.ini",
+		"/F/www/server/conf/shard.php",
+		"/F/www/web/Application/Runtime/Cache/School/3500751fbc143963468b6f41cebadeac.php",
+		"/F/Users/weiwait/Desktop/weiwait/post/frmwk/index.php",
+		"/F/Users/weiwait/Desktop/weiwait/post/web/index.php",
+		"/F/Users/weiwait/Desktop/weiwait/post/app/home/controller/IndexController.php",
+		"/F/Users/weiwait/Desktop/weiwait/post/app/admin/controller/IndexController.php",
+		"/F/Users/weiwait/Desktop/weiwait/cmf/application/Portal/Controller/AdminPostController.class.php",
+		"/F/Users/weiwait/Desktop/weiwait/cmf/application/Common/Conf/config.php",
+		"/F/Users/weiwait/Desktop/weiwait/cmf/data/conf/route.php",
+		"/F/Users/weiwait/Desktop/weiwait/cmf/simplewind/Core/Library/Think/Think.class.php",
+		"/F/Users/weiwait/Desktop/weiwait/cmf/simplewind/Core/Library/Think/App.class.php",
+		"/F/Users/weiwait/Desktop/weiwait/cmf/simplewind/Core/ThinkPHP.php",
+		"/F/Users/weiwait/Desktop/weiwait/cmf/application/Common/Behavior/InitHookBehavior.class.php",
+		"/F/Users/weiwait/Desktop/weiwait/cmf/testconf.php",
+		"/F/Users/weiwait/Desktop/weiwait/cmf/test.php",
+		"/F/Users/weiwait/Desktop/weiwait/cmf/application/Admin/Common/function.php",
+		"/F/Users/weiwait/Desktop/weiwait/cmf/data/conf/config.php",
+		"/F/Users/weiwait/Desktop/weiwait/cmf/application/Admin/Conf/config.php",
+		"/F/Users/weiwait/Desktop/weiwait/electron/Application/Api/Conf/config.php",
+		"/F/Users/weiwait/Desktop/weiwait/electron/ThinkPHP/Library/Think/App.class.php",
+		"/F/Users/weiwait/Desktop/weiwait/electron/Application/Home/Behavior/CheckMemoryBehavior.class.php",
+		"/F/Users/weiwait/Desktop/weiwait/electron/Application/Home/Controller/IndexController.class.php",
+		"/F/Users/weiwait/Desktop/weiwait/electron/Application/Home/Conf/config.php",
+		"/F/Users/weiwait/Desktop/weiwait/electron/Application/Home/View/layout.html",
+		"/F/Users/weiwait/Desktop/weiwait/electron/ThinkPHP/ThinkPHP.php",
+		"/F/Users/weiwait/Desktop/weiwait/electron/Application/Runtime/Cache/Home/09d054422b9bdca40dad2ce5efab48ec.php",
+		"/F/Users/weiwait/Desktop/weiwait/electron/ThinkPHP/Conf/convention.php",
+		"/F/Users/weiwait/Desktop/weiwait/electron/Public/index.php",
+		"/F/Users/weiwait/Desktop/weiwait/electron/Application/Api/Controller/IndexController.class.php",
+		"/F/Users/weiwait/Desktop/weiwait/electron/ThinkPHP/Common/functions.php",
+		"/F/Users/weiwait/Desktop/weiwait/electron/Application/Api/Model/OtherModel.class.php",
+		"/F/Users/weiwait/Desktop/weiwait/electron/composer.json",
+		"/F/Users/weiwait/Desktop/weiwait/electron/ThinkPHP/Library/Think/Model.class.php",
+		"/F/Users/weiwait/Desktop/weiwait/electron/Application/Api/Model/UserModel.class.php",
+		"/F/Users/weiwait/Desktop/weiwait/electron/Application/Home/View/Index_index.html",
+		"/F/Users/weiwait/Desktop/weiwait/electron/Public/README.md",
+		"/F/Users/weiwait/Desktop/weiwait/electron/README.md",
+		"/D/Program Files/Sublime Text 3/Data/Packages/User/Markdown.sublime-settings",
+		"/F/Users/weiwait/Desktop/weiwait/electron/Application/Common/Conf/config.php",
+		"/F/Users/weiwait/Desktop/weiwait/electron/Public/.htaccess",
+		"/D/Program Files/Sublime Text 3/Data/Packages/User/Plain text.sublime-settings",
+		"/D/Program Files/Sublime Text 3/Data/Packages/User/JSON.sublime-settings",
+		"/D/Program Files/Sublime Text 3/Data/Packages/Default/Preferences.sublime-settings",
+		"/F/Users/weiwait/Desktop/weiwait/electron/ThinkPHP/Library/Think/Build.class.php",
+		"/F/Users/weiwait/Desktop/weiwait/electron/ThinkPHP/Library/Think/Dispatcher.class.php",
+		"/F/Users/weiwait/Desktop/weiwait/electron/Application/Common/index.html",
+		"/F/Users/weiwait/Desktop/weiwait/electron/Application/index.html",
+		"/D/phpStudy/WWW/store/Application/Common/Common/function.php",
+		"/D/phpStudy/WWW/store/ThinkPHP/Common/functions.php",
+		"/D/phpStudy/WWW/store/Public/css/index.css",
+		"/D/phpStudy/WWW/store/Application/Home/Controller/TestController.class.php",
+		"/D/phpStudy/WWW/store/Application/Home/Behavior/TestIndexBehavior.class.php",
+		"/D/phpStudy/WWW/store/Application/Common/Behavior/ViewEndBehavior.class.php",
+		"/D/phpStudy/WWW/store/Application/Home/Conf/tags.php",
+		"/D/phpStudy/WWW/store/Application/Common/Behavior/ErrorHandlerBehavior.class.php",
+		"/D/phpStudy/WWW/store/Public/index.php",
+		"/D/phpStudy/WWW/store/ThinkPHP/Library/Think/Behavior.class.php",
+		"/D/phpStudy/WWW/store/Application/Common/Conf/tags.php",
+		"/D/phpStudy/WWW/store/Application/Home/View/Test_index.html",
+		"/D/phpStudy/WWW/store/Application/Home/View/Index_index.html",
+		"/D/phpStudy/WWW/store/composer.json",
+		"/D/phpStudy/WWW/store/Application/Home/View/index.html",
+		"/D/phpStudy/WWW/store/Application/Home/Conf/config.php",
+		"/D/phpStudy/WWW/store/Application/Common/Conf/config.php",
+		"/D/phpStudy/WWW/store/Public/.htaccess",
+		"/D/phpStudy/WWW/store/ThinkPHP/Library/Think/Dispatcher.class.php",
+		"/F/Users/weiwait/Desktop/weiwait/store/Application/Home/index.html",
+		"/F/Users/weiwait/Desktop/weiwait/store/public/index.php",
+		"/F/Users/weiwait/Desktop/almp/mnt/sdcard/ROOT/var/www/proxy.php",
+		"/F/Users/weiwait/AppData/Local/Temp/Rar$DRa0.105/mnt/sdcard/ROOT/var/www/proxy.php",
+		"/F/Users/weiwait/Desktop/weiwait/shop/shop.sublime-project",
+		"/F/Users/weiwait/Desktop/weiwait/shop.sublime-workspace",
+		"/F/Users/weiwait/Desktop/weiwait/shop.sublime-project",
+		"/F/Users/weiwait/Desktop/weiwait/muchuser/css/index.css",
+		"/F/Users/weiwait/Desktop/weiwait/muchuser/index.html",
+		"/F/Users/weiwait/Desktop/weiwait/index.html",
+		"/D/phpStudy/WWW/study/basic21/tpl/index.html",
+		"/D/phpStudy/WWW/study/basic19/index.php",
+		"/D/phpStudy/WWW/study/basic21/index.php",
+		"/D/phpStudy/WWW/study/basic21/tpl_c/d4940ca664101d2bbb55891a1ff33d637a9a5fa6_0.file.index.html.php",
+		"/D/phpStudy/WWW/study/basic21/smarty/libs/Smarty.class.php",
+		"/D/phpStudy/WWW/study/basic21/tpl",
+		"/D/phpStudy/WWW/study/basic21/smarty/demo/templates/header.tpl",
+		"/D/phpStudy/WWW/study/basic21/smarty/demo/templates/footer.tpl",
+		"/D/phpStudy/WWW/study/basic21/smarty/demo/plugins/cacheresource.apc.php",
+		"/D/phpStudy/WWW/study/basic21/smarty/demo/configs/test.conf",
+		"/D/phpStudy/WWW/study/basic21/smarty/libs/SmartyBC.class.php",
+		"/D/phpStudy/WWW/study/basic20/index.php",
+		"/D/phpStudy/WWW/study/basic20/index.html",
+		"/D/phpStudy/WWW/study/basic20/tpl_engine.php",
+		"/D/phpStudy/WWW/study/basic20/index_c.php",
+		"/D/phpStudy/WWW/study/basic16/index.php",
+		"/D/phpStudy/WWW/study/framework/controller/Index.php",
+		"/D/phpStudy/WWW/study/basic18/index.php",
+		"/D/phpStudy/WWW/study/basic13/index.php",
+		"/D/phpStudy/WWW/study/basic13/controller/index.php",
+		"/D/phpStudy/WWW/study/basic17/go.html",
+		"/D/phpStudy/WWW/study/basic17/go.php",
+		"/D/phpStudy/WWW/study/basic17/index.html",
+		"/D/phpStudy/WWW/study/basic17/index.php",
+		"/D/phpStudy/WWW/study/basic16/index.html",
+		"/D/phpStudy/WWW/study/basic16/upload/200eb1cfcf538805.jpg",
+		"/D/phpStudy/WWW/study/basic15/jq.html",
+		"/D/phpStudy/WWW/study/basic15/xml.php",
+		"/D/phpStudy/WWW/study/basic15/index.php",
+		"/D/phpStudy/WWW/study/basic15/xml.html",
+		"/D/phpStudy/WWW/study/basic15/index.html",
+		"/D/phpStudy/WWW/study/basic14/index.php",
+		"/D/phpStudy/WWW/study/basic12/index.php",
+		"/D/phpStudy/WWW/study/basic12/.htaccess",
+		"/F/Users/weiwait/Desktop/hosts",
+		"/D/phpStudy/WWW/study/basic11/index.php",
+		"/D/phpStudy/WWW/study/basic11/index3.php",
+		"/D/phpStudy/WWW/study/basic11/index2.php",
+		"/D/Program Files/Sublime Text 3/Data/Packages/User/PHP.sublime-settings",
+		"/D/phpStudy/WWW/study/basic10/obj2.php",
+		"/D/phpStudy/WWW/study/basic10/test.css",
+		"/D/Program Files/Sublime Text 3/Data/Packages/ColorPicker/ColorPicker.sublime-settings",
+		"/D/Program Files/Sublime Text 3/Data/Packages/User/Package Control.sublime-settings",
+		"/D/Program Files/Sublime Text 3/Data/Packages/User/Default (Windows).sublime-keymap",
+		"/D/Program Files/Sublime Text 3/Data/Packages/Alignment/Default (Windows).sublime-keymap"
+	],
+	"find":
+	{
+		"height": 31.0
+	},
+	"find_in_files":
+	{
+		"height": 117.0,
+		"where_history":
+		[
+			"",
+			"C:\\Users\\Administrator\\Desktop\\新建文件夹 (2)",
+			""
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"AdminPost",
+			"app_init",
+			"__ROOT__",
+			"userActionAction",
+			"BIND_MODULE",
+			"DIR_SECURE_FILENAME",
+			".tpl",
+			"extension",
+			"        \n",
+			"=>",
+			"=",
+			"child",
+			"': ",
+			"();",
+			"new-ten",
+			"float",
+			"think_",
+			");\n",
+			" align=\"right\"",
+			"small",
+			"px\"",
+			"1",
+			"LI",
+			"li",
+			"文字",
+			"<img src=\"\" alt=\"\" />",
+			"　",
+			"&nbsp;",
+			"　",
+			"<br />",
+			"<span style=\"text-indent: 2em;\">",
+			"</span>",
+			"&nbsp;",
+			"style=\"margin: 0px; padding: 0px; border: 0px;\"",
+			"div",
+			"&nbsp;",
+			"<o:p></o:p>",
+			"class=\"p0\" style=\"margin-bottom: 0pt; margin-top: 0pt;\""
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+			": ",
+			"msg-detail",
+			"double",
+			"itphp_",
+			"big",
+			"\"",
+			"one",
+			"word",
+			"",
+			"</p>",
+			"",
+			"p"
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 5,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "Application/School/View/Teacher/school.html",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 10074,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								7019,
+								7019
+							]
+						],
+						"settings":
+						{
+							"BracketHighlighterBusy": false,
+							"bh_regions":
+							[
+								"bh_tag",
+								"bh_tag_center",
+								"bh_tag_open",
+								"bh_tag_close",
+								"bh_tag_content",
+								"bh_double_quote",
+								"bh_double_quote_center",
+								"bh_double_quote_open",
+								"bh_double_quote_close",
+								"bh_double_quote_content",
+								"bh_curly",
+								"bh_curly_center",
+								"bh_curly_open",
+								"bh_curly_close",
+								"bh_curly_content",
+								"bh_regex",
+								"bh_regex_center",
+								"bh_regex_open",
+								"bh_regex_close",
+								"bh_regex_content",
+								"bh_round",
+								"bh_round_center",
+								"bh_round_open",
+								"bh_round_close",
+								"bh_round_content",
+								"bh_square",
+								"bh_square_center",
+								"bh_square_open",
+								"bh_square_close",
+								"bh_square_content",
+								"bh_default",
+								"bh_default_center",
+								"bh_default_open",
+								"bh_default_close",
+								"bh_default_content",
+								"bh_unmatched",
+								"bh_unmatched_center",
+								"bh_unmatched_open",
+								"bh_unmatched_close",
+								"bh_unmatched_content",
+								"bh_c_define",
+								"bh_c_define_center",
+								"bh_c_define_open",
+								"bh_c_define_close",
+								"bh_c_define_content",
+								"bh_angle",
+								"bh_angle_center",
+								"bh_angle_open",
+								"bh_angle_close",
+								"bh_angle_content",
+								"bh_single_quote",
+								"bh_single_quote_center",
+								"bh_single_quote_open",
+								"bh_single_quote_close",
+								"bh_single_quote_content"
+							],
+							"incomplete_sync": null,
+							"remote_loading": false,
+							"side_bar_folders_auto_load_folder": 1,
+							"synced": false,
+							"syntax": "Packages/HTML/HTML.sublime-syntax",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 5174.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 5,
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "Application/School/View/Teacher/addTeacher.html",
+					"semi_transient": true,
+					"settings":
+					{
+						"buffer_size": 1717,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								1299,
+								1302
+							]
+						],
+						"settings":
+						{
+							"BracketHighlighterBusy": false,
+							"bh_regions":
+							[
+								"bh_tag",
+								"bh_tag_center",
+								"bh_tag_open",
+								"bh_tag_close",
+								"bh_tag_content",
+								"bh_double_quote",
+								"bh_double_quote_center",
+								"bh_double_quote_open",
+								"bh_double_quote_close",
+								"bh_double_quote_content",
+								"bh_curly",
+								"bh_curly_center",
+								"bh_curly_open",
+								"bh_curly_close",
+								"bh_curly_content",
+								"bh_regex",
+								"bh_regex_center",
+								"bh_regex_open",
+								"bh_regex_close",
+								"bh_regex_content",
+								"bh_round",
+								"bh_round_center",
+								"bh_round_open",
+								"bh_round_close",
+								"bh_round_content",
+								"bh_square",
+								"bh_square_center",
+								"bh_square_open",
+								"bh_square_close",
+								"bh_square_content",
+								"bh_default",
+								"bh_default_center",
+								"bh_default_open",
+								"bh_default_close",
+								"bh_default_content",
+								"bh_unmatched",
+								"bh_unmatched_center",
+								"bh_unmatched_open",
+								"bh_unmatched_close",
+								"bh_unmatched_content",
+								"bh_c_define",
+								"bh_c_define_center",
+								"bh_c_define_open",
+								"bh_c_define_close",
+								"bh_c_define_content",
+								"bh_angle",
+								"bh_angle_center",
+								"bh_angle_open",
+								"bh_angle_close",
+								"bh_angle_content",
+								"bh_single_quote",
+								"bh_single_quote_center",
+								"bh_single_quote_open",
+								"bh_single_quote_close",
+								"bh_single_quote_content"
+							],
+							"incomplete_sync": null,
+							"remote_loading": false,
+							"side_bar_folders_auto_load_folder": 1,
+							"synced": false,
+							"syntax": "Packages/HTML/HTML.sublime-syntax",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 138.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 4,
+					"type": "text"
+				},
+				{
+					"buffer": 2,
+					"file": "Application/School/Controller/TeacherController.class.php",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 1082,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								1073,
+								1073
+							]
+						],
+						"settings":
+						{
+							"BracketHighlighterBusy": false,
+							"bh_regions":
+							[
+								"bh_tag",
+								"bh_tag_center",
+								"bh_tag_open",
+								"bh_tag_close",
+								"bh_tag_content",
+								"bh_double_quote",
+								"bh_double_quote_center",
+								"bh_double_quote_open",
+								"bh_double_quote_close",
+								"bh_double_quote_content",
+								"bh_curly",
+								"bh_curly_center",
+								"bh_curly_open",
+								"bh_curly_close",
+								"bh_curly_content",
+								"bh_regex",
+								"bh_regex_center",
+								"bh_regex_open",
+								"bh_regex_close",
+								"bh_regex_content",
+								"bh_round",
+								"bh_round_center",
+								"bh_round_open",
+								"bh_round_close",
+								"bh_round_content",
+								"bh_square",
+								"bh_square_center",
+								"bh_square_open",
+								"bh_square_close",
+								"bh_square_content",
+								"bh_default",
+								"bh_default_center",
+								"bh_default_open",
+								"bh_default_close",
+								"bh_default_content",
+								"bh_unmatched",
+								"bh_unmatched_center",
+								"bh_unmatched_open",
+								"bh_unmatched_close",
+								"bh_unmatched_content",
+								"bh_c_define",
+								"bh_c_define_center",
+								"bh_c_define_open",
+								"bh_c_define_close",
+								"bh_c_define_content",
+								"bh_angle",
+								"bh_angle_center",
+								"bh_angle_open",
+								"bh_angle_close",
+								"bh_angle_content",
+								"bh_single_quote",
+								"bh_single_quote_center",
+								"bh_single_quote_open",
+								"bh_single_quote_close",
+								"bh_single_quote_content"
+							],
+							"incomplete_sync": null,
+							"remote_loading": false,
+							"side_bar_folders_auto_load_folder": 1,
+							"synced": false,
+							"syntax": "Packages/PHP/PHP.sublime-syntax",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 414.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 3,
+					"type": "text"
+				},
+				{
+					"buffer": 3,
+					"file": "Application/School/Model/UserModel.class.php",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 547,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								513,
+								513
+							]
+						],
+						"settings":
+						{
+							"BracketHighlighterBusy": false,
+							"bh_regions":
+							[
+								"bh_tag",
+								"bh_tag_center",
+								"bh_tag_open",
+								"bh_tag_close",
+								"bh_tag_content",
+								"bh_double_quote",
+								"bh_double_quote_center",
+								"bh_double_quote_open",
+								"bh_double_quote_close",
+								"bh_double_quote_content",
+								"bh_curly",
+								"bh_curly_center",
+								"bh_curly_open",
+								"bh_curly_close",
+								"bh_curly_content",
+								"bh_regex",
+								"bh_regex_center",
+								"bh_regex_open",
+								"bh_regex_close",
+								"bh_regex_content",
+								"bh_round",
+								"bh_round_center",
+								"bh_round_open",
+								"bh_round_close",
+								"bh_round_content",
+								"bh_square",
+								"bh_square_center",
+								"bh_square_open",
+								"bh_square_close",
+								"bh_square_content",
+								"bh_default",
+								"bh_default_center",
+								"bh_default_open",
+								"bh_default_close",
+								"bh_default_content",
+								"bh_unmatched",
+								"bh_unmatched_center",
+								"bh_unmatched_open",
+								"bh_unmatched_close",
+								"bh_unmatched_content",
+								"bh_c_define",
+								"bh_c_define_center",
+								"bh_c_define_open",
+								"bh_c_define_close",
+								"bh_c_define_content",
+								"bh_angle",
+								"bh_angle_center",
+								"bh_angle_open",
+								"bh_angle_close",
+								"bh_angle_content",
+								"bh_single_quote",
+								"bh_single_quote_center",
+								"bh_single_quote_open",
+								"bh_single_quote_close",
+								"bh_single_quote_content"
+							],
+							"incomplete_sync": null,
+							"origin_encoding": "ASCII",
+							"remote_loading": false,
+							"side_bar_folders_auto_load_folder": 1,
+							"synced": false,
+							"syntax": "Packages/PHP/PHP.sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 2,
+					"type": "text"
+				},
+				{
+					"buffer": 4,
+					"file": "Application/School/View/Teacher/addUser.html",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 2236,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								1599,
+								1599
+							]
+						],
+						"settings":
+						{
+							"BracketHighlighterBusy": false,
+							"bh_regions":
+							[
+								"bh_tag",
+								"bh_tag_center",
+								"bh_tag_open",
+								"bh_tag_close",
+								"bh_tag_content",
+								"bh_double_quote",
+								"bh_double_quote_center",
+								"bh_double_quote_open",
+								"bh_double_quote_close",
+								"bh_double_quote_content",
+								"bh_curly",
+								"bh_curly_center",
+								"bh_curly_open",
+								"bh_curly_close",
+								"bh_curly_content",
+								"bh_regex",
+								"bh_regex_center",
+								"bh_regex_open",
+								"bh_regex_close",
+								"bh_regex_content",
+								"bh_round",
+								"bh_round_center",
+								"bh_round_open",
+								"bh_round_close",
+								"bh_round_content",
+								"bh_square",
+								"bh_square_center",
+								"bh_square_open",
+								"bh_square_close",
+								"bh_square_content",
+								"bh_default",
+								"bh_default_center",
+								"bh_default_open",
+								"bh_default_close",
+								"bh_default_content",
+								"bh_unmatched",
+								"bh_unmatched_center",
+								"bh_unmatched_open",
+								"bh_unmatched_close",
+								"bh_unmatched_content",
+								"bh_c_define",
+								"bh_c_define_center",
+								"bh_c_define_open",
+								"bh_c_define_close",
+								"bh_c_define_content",
+								"bh_angle",
+								"bh_angle_center",
+								"bh_angle_open",
+								"bh_angle_close",
+								"bh_angle_content",
+								"bh_single_quote",
+								"bh_single_quote_center",
+								"bh_single_quote_open",
+								"bh_single_quote_close",
+								"bh_single_quote_content"
+							],
+							"incomplete_sync": null,
+							"open_with_edit": true,
+							"remote_loading": false,
+							"side_bar_folders_auto_load_folder": 1,
+							"synced": false,
+							"syntax": "Packages/HTML/HTML.sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 759.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 1,
+					"type": "text"
+				},
+				{
+					"buffer": 5,
+					"file": "Application/School/View/Teacher/alterTeacher.html",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 6,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								6,
+								6
+							]
+						],
+						"settings":
+						{
+							"BracketHighlighterBusy": false,
+							"bh_regions":
+							[
+								"bh_tag",
+								"bh_tag_center",
+								"bh_tag_open",
+								"bh_tag_close",
+								"bh_tag_content",
+								"bh_double_quote",
+								"bh_double_quote_center",
+								"bh_double_quote_open",
+								"bh_double_quote_close",
+								"bh_double_quote_content",
+								"bh_curly",
+								"bh_curly_center",
+								"bh_curly_open",
+								"bh_curly_close",
+								"bh_curly_content",
+								"bh_regex",
+								"bh_regex_center",
+								"bh_regex_open",
+								"bh_regex_close",
+								"bh_regex_content",
+								"bh_round",
+								"bh_round_center",
+								"bh_round_open",
+								"bh_round_close",
+								"bh_round_content",
+								"bh_square",
+								"bh_square_center",
+								"bh_square_open",
+								"bh_square_close",
+								"bh_square_content",
+								"bh_default",
+								"bh_default_center",
+								"bh_default_open",
+								"bh_default_close",
+								"bh_default_content",
+								"bh_unmatched",
+								"bh_unmatched_center",
+								"bh_unmatched_open",
+								"bh_unmatched_close",
+								"bh_unmatched_content",
+								"bh_c_define",
+								"bh_c_define_center",
+								"bh_c_define_open",
+								"bh_c_define_close",
+								"bh_c_define_content",
+								"bh_angle",
+								"bh_angle_center",
+								"bh_angle_open",
+								"bh_angle_close",
+								"bh_angle_content",
+								"bh_single_quote",
+								"bh_single_quote_center",
+								"bh_single_quote_open",
+								"bh_single_quote_close",
+								"bh_single_quote_content"
+							],
+							"incomplete_sync": null,
+							"open_with_edit": true,
+							"remote_loading": false,
+							"side_bar_folders_auto_load_folder": 1,
+							"synced": false,
+							"syntax": "Packages/Text/Plain text.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 31.0
+	},
+	"input":
+	{
+		"height": 43.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"output.sftp":
+	{
+		"height": 172.0
+	},
+	"pinned_build_system": "",
+	"project": "web.sublime-project",
+	"replace":
+	{
+		"height": 58.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"basic13index.php",
+				"basic13\\index.php"
+			],
+			[
+				"basi13",
+				"basic13\\controller\\index.php"
+			],
+			[
+				"/htdoc",
+				"C:\\users\\admini~1\\appdata\\local\\temp\\sublime-sftp-browse-1426425688\\空间法则\\htdocs\\test\\index.html"
+			],
+			[
+				"",
+				"C:\\users\\admini~1\\appdata\\local\\temp\\sublime-sftp-browse-1426425688\\空间法则\\htdocs\\test\\index.html"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 500.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"",
+				"F:\\Users\\weiwait\\Desktop\\weiwait\\weiwiat.sublime-project"
+			]
+		],
+		"width": 380.0
+	},
+	"select_symbol":
+	{
+		"height": 392.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 392.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 241.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
