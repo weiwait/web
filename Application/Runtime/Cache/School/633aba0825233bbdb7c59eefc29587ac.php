@@ -1,4 +1,4 @@
-<!DOCTYPE html>
+<?php if (!defined('THINK_PATH')) exit();?><!DOCTYPE html>
 <html lang="en">
 <head>
 	<meta charset="utf-8">
@@ -52,14 +52,14 @@
 	}
 </style>
 <body>
-	<form action="{:U('School/Teacher/addTeacher')}" method="post" id="sub" onsubmit="return sub();">
+	<form action="" method="post" id="sub" onsubmit="return sub();">
 		<div class="input-wrap">教师名称:<input type="text" name="teacher"></div>
 		<div class="submit"><input type="submit" value="添加"></div>
 		<div class="popup-true">添加成功</div>
 		<div class="popup-false">添加失败</div>
 	</form>
-	<script type="text/javascript" src="__PUBLIC__/assets/js/jquery-1.10.2.min.js"></script>
-	<script type="text/javascript" src="__PUBLIC__/assets/js/ajaxForm.js"></script>
+	<script type="text/javascript" src="/web/Public/assets/js/jquery-1.10.2.min.js"></script>
+	<script type="text/javascript" src="/web/Public/assets/js/ajaxForm.js"></script>
 	<script type="text/javascript">
 		function sub() {
 			$('#sub').ajaxSubmit(function(m) {

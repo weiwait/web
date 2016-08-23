@@ -1,19 +1,19 @@
-<!DOCTYPE html>
+<?php if (!defined('THINK_PATH')) exit();?><!DOCTYPE html>
 <html lang="en">
 <head>
     <meta charset="utf-8"/>
-    <title>{$active} - 考勤系统</title>
+    <title><?php echo ($active); ?> - 考勤系统</title>
     <meta name="keywords" content=""/>
     <meta name="description" content=""/>
     <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
 
     <!-- basic styles -->
 
-    <link href="__PUBLIC__/assets/css/bootstrap.min.css" rel="stylesheet"/>
-    <link rel="stylesheet" href="__PUBLIC__/assets/css/font-awesome.min.css"/>
+    <link href="/web/Public/assets/css/bootstrap.min.css" rel="stylesheet"/>
+    <link rel="stylesheet" href="/web/Public/assets/css/font-awesome.min.css"/>
 
     <!--[if IE 7]>
-    <link rel="stylesheet" href="__PUBLIC__/assets/css/font-awesome-ie7.min.css"/>
+    <link rel="stylesheet" href="/web/Public/assets/css/font-awesome-ie7.min.css"/>
     <![endif]-->
 
     <!-- page specific plugin styles -->
@@ -24,25 +24,25 @@
 
     <!-- ace styles -->
 
-    <link rel="stylesheet" href="__PUBLIC__/assets/css/ace.min.css"/>
-    <link rel="stylesheet" href="__PUBLIC__/assets/css/ace-rtl.min.css"/>
-    <link rel="stylesheet" href="__PUBLIC__/assets/css/ace-skins.min.css"/>
+    <link rel="stylesheet" href="/web/Public/assets/css/ace.min.css"/>
+    <link rel="stylesheet" href="/web/Public/assets/css/ace-rtl.min.css"/>
+    <link rel="stylesheet" href="/web/Public/assets/css/ace-skins.min.css"/>
 
     <!--[if lte IE 8]>
-    <link rel="stylesheet" href="__PUBLIC__/assets/css/ace-ie.min.css"/>
+    <link rel="stylesheet" href="/web/Public/assets/css/ace-ie.min.css"/>
     <![endif]-->
 
     <!-- inline styles related to this page -->
 
     <!-- ace settings handler -->
 
-    <script src="__PUBLIC__/assets/js/ace-extra.min.js"></script>
+    <script src="/web/Public/assets/js/ace-extra.min.js"></script>
 
     <!-- HTML5 shim and Respond.js IE8 support of HTML5 elements and media queries -->
 
     <!--[if lt IE 9]>
-    <script src="__PUBLIC__/assets/js/html5shiv.js"></script>
-    <script src="__PUBLIC__/assets/js/respond.min.js"></script>
+    <script src="/web/Public/assets/js/html5shiv.js"></script>
+    <script src="/web/Public/assets/js/respond.min.js"></script>
     <![endif]-->
 </head>
 
@@ -72,11 +72,6 @@
 
                 <li class="light-blue">
                     <a data-toggle="dropdown" href="#" class="dropdown-toggle">
-                        <img class="nav-user-photo" src="{$Think.session.user.headurl}" alt="{$Think.session.user.username}" />
-                        <span class="user-info">
-                            <small>Welcome,</small>
-                            {$Think.session.user.username}
-                        </span>
 
                         <i class="icon-caret-down"></i>
                     </a>
@@ -89,7 +84,7 @@
                         <li class="divider"></li>
 
                         <li>
-                            <a href="{:U('Index/logout','','')}">
+                            <a href="<?php echo U('Index/logout','','');?>">
                                 <i class="icon-off"></i>
                                 退出登录
                             </a>
@@ -123,29 +118,25 @@
 
 
 
-            <foreach name='nav_genre' item='title'>
-                <ul class="nav nav-list">
+            <?php if(is_array($nav_genre)): foreach($nav_genre as $key=>$title): ?><ul class="nav nav-list">
                     <li class="<?php echo $title['active']; ?> open">
                         <a href="#" class="dropdown-toggle">
                             <i class="icon-list"></i>
-                            <span class="menu-text"> {$title['title']} </span>
+                            <span class="menu-text"> <?php echo ($title['title']); ?> </span>
                             <b class="arrow icon-angle-down"></b>
                         </a>
                         <ul class="submenu">
-                        <foreach name="left_nav" item="nav">
-                            <?php if($nav['genre_id'] == $title['id']) {?>
+                        <?php if(is_array($left_nav)): foreach($left_nav as $key=>$nav): if($nav['genre_id'] == $title['id']) {?>
                             <li>
                                 <a href="<?php echo U($nav['url']);?>" target="<?php echo $nav['target']; ?>">
                                 <i class="icon-double-angle-right"></i>
                                 <?php echo $nav['name']; ?>
                                 </a>
                             </li>
-                            <?php }?>
-                        </foreach>
+                            <?php } endforeach; endif; ?>
                         </ul>
                     </li>
-                </ul>
-            </foreach>
+                </ul><?php endforeach; endif; ?>
 
 
 
@@ -165,8 +156,8 @@
                     </a>
 
                     <ul class="submenu">
-                        <li class="<eq name="active" value="添加教师">active</eq>">
-                            <a href="{:U('School/Teacher/addTeacher')}" target="ajax-page">
+                        <li class="<?php if(($active) == "添加教师"): ?>active<?php endif; ?>">
+                            <a href="<?php echo U('School/Teacher/addTeacher');?>" target="ajax-page">
                             <i class="icon-double-angle-right"></i>
                             添加教师
                             </a>
@@ -205,9 +196,9 @@
                 <ul class="breadcrumb">
                     <li>
                         <i class="icon-home home-icon"></i>
-                        <a href="{:U('User/machine_list','','')}">首页</a>
+                        <a href="<?php echo U('User/machine_list','','');?>">首页</a>
                     </li>
-                    {$breadcrumb}
+                    <?php echo ($breadcrumb); ?>
                 </ul>
 
 
@@ -234,12 +225,12 @@
 
 <!--[if !IE]> -->
 
-<script src="__PUBLIC__/assets/js/jquery-2.0.3.min.js"></script>
+<script src="/web/Public/assets/js/jquery-2.0.3.min.js"></script>
 
 <!-- <![endif]-->
 
 <!--[if IE]>
-<script src="__PUBLIC__/assets/js/jquery-1.10.2.min.js"></script>
+<script src="/web/Public/assets/js/jquery-1.10.2.min.js"></script>
 <![endif]-->
 
 <!--[if !IE]> -->
@@ -259,18 +250,18 @@
 <script type="text/javascript">
     if ("ontouchend" in document) document.write("<script src='assets/js/jquery.mobile.custom.min.js'>" + "<" + "/script>");
 </script>
-<script src="__PUBLIC__/assets/js/bootstrap.min.js"></script>
-<script src="__PUBLIC__/assets/js/typeahead-bs2.min.js"></script>
+<script src="/web/Public/assets/js/bootstrap.min.js"></script>
+<script src="/web/Public/assets/js/typeahead-bs2.min.js"></script>
 
 <!-- page specific plugin scripts -->
 
-<script src="__PUBLIC__/assets/js/jquery.dataTables.min.js"></script>
-<script src="__PUBLIC__/assets/js/jquery.dataTables.bootstrap.js"></script>
+<script src="/web/Public/assets/js/jquery.dataTables.min.js"></script>
+<script src="/web/Public/assets/js/jquery.dataTables.bootstrap.js"></script>
 
 <!-- ace scripts -->
 
-<script src="__PUBLIC__/assets/js/ace-elements.min.js"></script>
-<script src="__PUBLIC__/assets/js/ace.min.js"></script>
+<script src="/web/Public/assets/js/ace-elements.min.js"></script>
+<script src="/web/Public/assets/js/ace.min.js"></script>
 
 <!-- inline scripts related to this page -->
 
